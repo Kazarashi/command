@@ -32,7 +32,7 @@ scp [local_path][file_name] [user]@[server]:[server_path]
 scp -r [local_path] [user]@[server]:[server_path]
 ```
 
-git
+GIT
 
 - clone
 ```
